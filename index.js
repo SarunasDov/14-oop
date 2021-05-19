@@ -4,5 +4,14 @@ const rexas = new Dog('Rex', 'brown');
 const spaikas = new Dog('Spike', 'white');
 
 
-console.log(rexas.hasTale);
-console.log(spaikas.hasTale);
+console.log(rexas);
+console.log(spaikas);
+
+
+spaikas.voice();
+rexas.voice();
+spaikas.voice();
+rexas.voice();
+rexas.voice();
+rexas.voice();
+spaikas.voice();
