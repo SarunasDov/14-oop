@@ -1,10 +1,11 @@
 const Pet = require('./Pet');
 
-class Dog extends Pet {
+class Rabbit extends Pet {
     constructor(name, fur) {
         super(name, fur);
-        this.sound = 'au au';
+        this.sound = 'nom nom';
     }
+
 }
 
-module.exports = Dog;
+module.exports = Rabbit;

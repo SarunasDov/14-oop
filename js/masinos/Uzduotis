@@ -1,0 +1,13 @@
+Transporto priemones (p: vairo pozicija, sedyniu skaicius, ar ijungtas varyklis, ratu skaicius; m: ijungti varykli, isjungti varykli)
+    Lengvosios (p: ; m: )
+        Volvo
+        BMW
+        Tesla
+    Sunkvezimiai (p: priekabos talpa; m: pakelti priekaba, nuleisti priekaba)
+        Man
+        Gaz
+        Vaz
+    Motociklai (p: ar turi lopseli)
+        Kawasaki
+        Iz
+        Yamaha
